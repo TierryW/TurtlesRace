@@ -29,10 +29,10 @@ This project is a turtle racing simulator developed in C#. In it, you can create
 │
 ├── music             # Folder of used sounds
 ├── .gitignore        # Ignored files and folders
-├── References.txt    # Project references
+├── LICENSE           # Project license
 ├── Program.cs        # Program entry point
 ├── README.md         # Project description
-└── LICENSE           # Project license
+└── References.txt    # Project references
 ```
 
 ## Requirements
@@ -61,7 +61,7 @@ Or run in Visual Studio.
 
 ## Creator Team:
 
-[***Tierry Willis***](https://github.com/TierryWillis)
+[***Tierry Willis***](https://github.com/TierryW)
 
 [***Cicero Eduardo***](https://github.com/Cicero-Fernandes)
 
