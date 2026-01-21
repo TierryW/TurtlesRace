@@ -1,0 +1,9 @@
+Grupo: Cicero Eduardo Silva Fernandes, Tierry Willis Yun de Souza, Leticia Regina Oliveira da Silva
+
+https://www.w3schools.com/cs/index.php
+https://www.devmedia.com.br/programacao-assincrona-multithreading-em-net-com-csharp/23357
+https://www.alura.com.br/artigos/listas-em-csharp
+https://youtu.be/kj_-Brm4DDI?si=gv7Ybk3TClGNarGl
+https://www.dio.me/articles/manipulacao-de-cores-no-console-em-c
+https://youtu.be/qRXLanFQlnk?si=wgACGqHHMtPldRCv
+https://youtu.be/P8aKrW7UEbI?si=xCrG5-gMFmMt_JIO
