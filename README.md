@@ -1,4 +1,4 @@
-<h1 align="center"> Turtle Race </h1>
+<h1 align="center"> Turtles Race </h1>
 
 ## Description
 This project is a turtle racing simulator developed in C#. In it, you can create up to five turtles to compete. Turtles' performance in the race is influenced by their physical characteristics, such as weight and height. Additionally, the project uses sounds to improve the user experience and makes use of threads to manage concurrency during the race simulation.
@@ -25,7 +25,7 @@ This project is a turtle racing simulator developed in C#. In it, you can create
 
 ## File Structure
 ```
-/TurtleRace
+/TurtlesRace
 │
 ├── music             # Folder of used sounds
 ├── .gitignore        # Ignored files and folders
