@@ -48,7 +48,7 @@ This project is a turtle racing simulator developed in C#. In it, you can create
 
 Copy code:
 ```
-git clone https://github.com/seu-usuario/TurtleRace
+git clone https://github.com/seu-usuario/TurtlesRace
 ```
 Open the project in Visual Studio Code or Visual Studio.
 Compile and run the project using the Visual Studio Code terminal.
@@ -61,7 +61,7 @@ Or run in Visual Studio.
 
 ## Creator Team:
 
-[***Tierry Willis***](https://github.com/TierryW)
+[***Tierry Souza***](https://github.com/TierryW)
 
 [***Cicero Eduardo***](https://github.com/Cicero-Fernandes)
 
